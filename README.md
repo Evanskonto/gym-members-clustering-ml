@@ -90,7 +90,7 @@ They showcase the workflow and separation between clusters.
 ```bash
 pip install -r requirements.txt
 jupyter notebook FinalProject.ipynb
-
+```
 Requirements
 pandas
 numpy
