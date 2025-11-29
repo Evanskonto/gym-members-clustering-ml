@@ -22,7 +22,7 @@ The goal is to identify meaningful fitness personas that gyms can use to persona
 
 ---
 
-## 🧠 Techniques Used
+##  Techniques Used
 
 ### Preprocessing
 - Missing value handling  
