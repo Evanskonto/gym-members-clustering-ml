@@ -69,13 +69,9 @@ These profiles can help gyms create personalised programmes or targeted recommen
 
 ##  Visualisations
 
-All plots are available in the `results/` folder:
+All plots are available 
 
-- `elbow_method.png`  
-- `silhouette_score.png`  
-- `kmeans_clusters.png`  
-- `hierarchical_dendrogram.png`  
-- `cluster_profiles.png`  
+
 
 They showcase the workflow and separation between clusters.
 ---
