@@ -78,5 +78,22 @@ All plots are available in the `results/` folder:
 - `cluster_profiles.png`  
 
 They showcase the workflow and separation between clusters.
+---
+
+>  Full Kaggle dataset is **not included** (license restrictions).  
+> Only a small sample is provided for structure reference.
 
 ---
+
+##  How to Run
+
+```bash
+pip install -r requirements.txt
+jupyter notebook FinalProject.ipynb
+
+Requirements
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
