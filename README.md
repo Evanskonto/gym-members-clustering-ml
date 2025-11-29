@@ -7,7 +7,7 @@ The goal is to identify meaningful fitness personas that gyms can use to persona
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 - Dataset: *gym_members_exercise_tracking.csv* (Kaggle)
 - Rows: 973
 - Features include:
@@ -43,7 +43,7 @@ The goal is to identify meaningful fitness personas that gyms can use to persona
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 ### ✔ Optimal number of clusters: **3**
 Representing:
@@ -67,7 +67,7 @@ These profiles can help gyms create personalised programmes or targeted recommen
 
 ---
 
-## 📷 Visualisations
+##  Visualisations
 
 All plots are available in the `results/` folder:
 
@@ -81,4 +81,4 @@ They showcase the workflow and separation between clusters.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
