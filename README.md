@@ -80,5 +80,3 @@ All plots are available in the `results/` folder:
 They showcase the workflow and separation between clusters.
 
 ---
-
-##  Repository Structure
